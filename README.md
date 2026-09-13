@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there friends👋
 
 <!--
 **Ram-41/Ram-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
